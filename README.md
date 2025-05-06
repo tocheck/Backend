@@ -27,10 +27,9 @@
 
 ## 📦 기술 스택
 
-- **Frontend**: React, TailwindCSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB (예민한 데이터도 NoSQL이 잘 품어줍니다)
-- **Etc**: Emotion.js (이름이 잘 어울리길래…)
+- **Frontend**: React native
+- **Backend**: Node.js
+- **Database**: NoSQL
 
 ---
 
