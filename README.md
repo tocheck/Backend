@@ -36,7 +36,7 @@
 ## 🚀 시작하기
 
 ```bash
-git clone https://github.com/[your-org]/예민해.git
-cd 예민해
+git clone https://github.com/[your-org]/예민혜.git
+cd 예민혜
 npm install
 npm start
